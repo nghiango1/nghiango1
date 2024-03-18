@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I start coding in my high school year (2012) and quickly reach national level in Academic and achieved 3rd pride in "Kì thi chọn học sinh giỏi quốc gia trung học phổ thông Tin học" in VietNam (2014) (which identifying top talent of Vietnam to compete in [International Science Olympiads in Informatics](https://ioinformatics.org/)). I love to learn everything from the core and the last 10 years have never stop self studying from every aspect of coding: From data structures, algorithms, low level language asm/c/c++, security,... to the lastest technology advancement like Python/Machine Learning/AI (math included) or microservice architecture/networking/API driven.
+
+While I know and can leverage a lot of existing tools (VM, Cloud, Container...), I have alway want to be the one who shape and build them. I using `Golang` more and more at the moment as a lot of tool chains in field shifting toward them. After have fullfill the military service obligation as system admin in one of largest Govement Datacenter in Vietnam, I love to invest my profession as a Developer to pursue my passion for coding once more.
+
+Check out my latest project, where I building a new interpreter language in golang - Interingo, with a full LSP, Code highlighter for neovim here.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nghiango1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ylsama/ylsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
